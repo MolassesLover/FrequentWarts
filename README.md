@@ -12,6 +12,10 @@ The affected entities are as follows:
 - Striders
 - Witches
 
+The 'brute' variant of the Piglin, and 'zombified'
+variants of the Hoglins and Piglins are affected
+as well.
+
 ## License
 This project is licensed under the
 [Apache v2.0 license](LICENSE-APACHE.md) or 
